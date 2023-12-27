@@ -26,9 +26,9 @@
 
 ## Project launch
 
-1️⃣ Clone repo.
-2️⃣ Run `yarn` in the project directory `api`.
-3️⃣ Start development server by running `yarn dev`.
+1️⃣ Clone repo.\
+2️⃣ Run `yarn` in the project directory `api`.\
+3️⃣ Start development server by running `yarn dev`.\
 4️⃣ Visit <http://localhost:4000/>. The application should be up & running.
 
 ---
